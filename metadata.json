@@ -1,0 +1,6 @@
+{
+  "name": "Learn SQL",
+  "description": "Query. Analyze. Build. Master SQL. Interactive SQL & database learning platform with visual query execution, ER designer, and playground by Awiskar Acharya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

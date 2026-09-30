@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Bottom Cylinder Layer -->
+        <path
+            android:pathData="M30,64 C30,70.6 40.7,76 54,76 C67.3,76 78,70.6 78,64 L78,72 C78,78.6 67.3,84 54,84 C40.7,84 30,78.6 30,72 Z"
+            android:fillColor="#0284C7" />
+        <path
+            android:pathData="M30,64 C30,70.6 40.7,76 54,76 C67.3,76 78,70.6 78,64 C78,57.4 67.3,52 54,52 C40.7,52 30,57.4 30,64 Z"
+            android:fillColor="#0EA5E9" />
+
+        <!-- Middle Cylinder Layer -->
+        <path
+            android:pathData="M30,48 C30,54.6 40.7,60 54,60 C67.3,60 78,54.6 78,48 L78,56 C78,62.6 67.3,68 54,68 C40.7,68 30,62.6 30,56 Z"
+            android:fillColor="#2563EB" />
+        <path
+            android:pathData="M30,48 C30,54.6 40.7,60 54,60 C67.3,60 78,54.6 78,48 C78,41.4 67.3,36 54,36 C40.7,36 30,41.4 30,48 Z"
+            android:fillColor="#38BDF8" />
+
+        <!-- Top Cylinder Layer -->
+        <path
+            android:pathData="M30,32 C30,38.6 40.7,44 54,44 C67.3,44 78,38.6 78,32 L78,40 C78,46.6 67.3,52 54,52 C40.7,52 30,46.6 30,40 Z"
+            android:fillColor="#1D4ED8" />
+        <path
+            android:pathData="M30,32 C30,38.6 40.7,44 54,44 C67.3,44 78,38.6 78,32 C78,25.4 67.3,20 54,20 C40.7,20 30,25.4 30,32 Z"
+            android:fillColor="#60A5FA" />
+
+        <!-- Front Status LEDs -->
+        <path
+            android:pathData="M38,36 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0"
+            android:fillColor="#4ADE80" />
+        <path
+            android:pathData="M38,52 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0"
+            android:fillColor="#38BDF8" />
+        <path
+            android:pathData="M38,68 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0"
+            android:fillColor="#FBBF24" />
+
+        <!-- Query Code Prompt Symbol '>_' on the database -->
+        <path
+            android:pathData="M48,68 L53,71 L48,74"
+            android:strokeWidth="2"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <path
+            android:pathData="M56,74 L64,74"
+            android:strokeWidth="2"
+            android:strokeColor="#38BDF8"
+            android:strokeLineCap="round" />
+
+        <!-- Top disc inner ring highlight -->
+        <path
+            android:pathData="M38,30 C38,34 45.2,37 54,37 C62.8,37 70,34 70,30 C70,26 62.8,23 54,23 C45.2,23 38,26 38,30 Z"
+            android:strokeWidth="1.2"
+            android:strokeColor="#FFFFFF"
+            android:fillColor="#00000000" />
+    </group>
+</vector>
